@@ -1,5 +1,5 @@
 # Notes-App
-Notes App created using Node JS
+Notes App created using Node JS and MongoDB.
 To Run this project Clone it and install modules using npm install and then start the server npm start
 ```
 npm install
